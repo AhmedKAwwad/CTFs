@@ -1,4 +1,4 @@
-## CyberTalents CTFs Wirteups
+## CyberTalents CTF Wirteups
 
 Hope you can find all the help here regarding CyberTalents Challanges
 The main purpose of this writeups to share knowledge of crtical thinking
